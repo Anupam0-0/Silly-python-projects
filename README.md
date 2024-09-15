@@ -1,2 +1,2 @@
-# What-I-learned-in-2024
+# Silly ah python projects 🐍💀
 it is what it is
